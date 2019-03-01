@@ -1,0 +1,56 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	text-align: center;
+	background-color: #E8EAED;
+	width: 500px;
+	margin-left: 450px;
+	margin-top: 50px;
+}
+h2{
+	margin-top: 60px;
+	font-family: sans-serif;
+	font-size: 30px;
+	margin-bottom: 35px;
+}
+
+
+input.ng-dirty{
+	background-color: #EBEDEF;
+}
+
+input.ng-pristine{
+	background-color: #ABB1BA;
+}
+.form-control{
+	width: 350px;
+	height: 30px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+.prof{
+	width: 250px;
+	margin-left: -105px;
+}
+
+.p_cat{
+   text-align: left;
+   margin-left: 75px;
+   font-family: sans-serif;
+   font-size: 17px;
+   margin-top: 10px;
+   margin-bottom: 5px;
+   color: 
+}
+.btn-default{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100px;
+	height: 30px;
+	background-color: #4CAF50;
+	border: none;
+	border-radius: 5px;
+}
